@@ -1,0 +1,21 @@
+{
+  "configurations": [
+    {
+      "name": "windows-gcc-x64",
+      "includePath": [
+        "${workspaceFolder}/**"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "windowsSdkVersion": "10.0.22000.0",
+      "cStandard": "gnu89",
+      "cppStandard": "gnu++98",
+      "intelliSenseMode": "windows-gcc-x64",
+      "compilerPath": "C:/msys64/mingw64/bin/gcc.exe"
+    }
+  ],
+  "version": 4
+}
